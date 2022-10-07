@@ -31,6 +31,7 @@ Knjige po preporuci profesora vezano za dalje istrazivanje vezano za temu intera
 Takodjer, pozeljno je pogledati literaturu od Donald Norman-a, The Design of Everyday Things i The Invisible Computer
 
 [Nielsen Norman grupacija](https://www.nngroup.com/)
+<br>
 [Interaction Design fondacija](https://www.interaction-design.org/)
 
 Bitno napomenuti da postoje odredjene knjige vezano za dizajn koje su se koristile dok je web dizajn jos bio na low detaljnom izgledu, tako da postoji literatura koja je bolja. Sve knjige koje su navedene su po preporuci kao dodatni izvor.

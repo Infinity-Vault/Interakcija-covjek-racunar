@@ -24,7 +24,7 @@ Predavanje 1- 7.10.2022 (Uvod u human-computer interaction i pojasnjenje koncept
 
 Knjige po preporuci profesora vezano za dalje istrazivanje vezano za temu interakcije covjek-racunar.
 
-[Jakob Nielsen, Usability Engineering 1 izdanje iz 1993.](https://www.amazon.com/dp/0125184069?tag=useitcomusablein)
+[Jakob Nielsen, Usability Engineering 1. izdanje iz 1993.](https://www.amazon.com/dp/0125184069?tag=useitcomusablein)
 
 [Jakob Nielsen, AlertBox: Current Issues in Web Usability (Uglavnom clanci koji se objavljuju svakodnevno vezano za temu izucavanja predmeta)](https://www.nngroup.com/articles/)
 

@@ -15,7 +15,7 @@ Predavanje 1- 7.10.2022 (Uvod u human-computer interaction i pojasnjenje koncept
 
 **Vjezbe**
 
-
+[Vjezbe 2 Nihad Borovina (18.10.2022.) ](https://app.moqups.com/Nyjm27BI24XnicdCPCwWGP3fgZHM1hvf/view/page/ad64222d5)
 
 <hr>
 
